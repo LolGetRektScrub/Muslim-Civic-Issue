@@ -1,0 +1,56 @@
+body {
+    background-color: #EEE;
+    text-align: justify;
+}
+
+#container {
+    background-color: white;    
+    width: 1250px;
+    height: 570px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    background-color: #66CCFF;
+    color: white;
+    text-align: center;
+}
+
+#content {
+    padding: 10px;
+}
+
+#nav {
+    width: 180px;
+    float: left;
+    color: red;
+}
+
+#nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#nav .selected {
+    font-weight: bold;
+}
+
+#main {
+    width: 800px;
+    float: right;
+}
+
+
+#footer {
+    clear: both;
+    padding: 10px;
+    background-color: #999999;
+    color: white;
+    text-align: right;
+    margin-top: 39%;
+}
+
+h1 {
+   margin: 0;
+}
