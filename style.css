@@ -3,9 +3,10 @@ body {
 }
 
 .container {
+    font-size: 100%;
     background-color: rgb(212, 198, 198);    
     width: 100%;
-    height: 98%;
+    height: 97%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -21,6 +22,7 @@ body {
 }
 
 .nav {
+    font-size: 100%;
     width: 10%;
     float: left;
     color: red;
@@ -37,6 +39,7 @@ body {
 }
 
 .main {
+    font-size: 100%;
     width: 70%;
     float: right;
     display: flex;
@@ -52,6 +55,7 @@ body {
 }
 
 .footer {
+    font-size: 100%;
     clear: both;
     padding: 1%;
     background-color: #999999;
