@@ -86,3 +86,6 @@ html{
     display: table;
 }
 
+table, th, td {
+    border: 1%;
+}
